@@ -1,1 +1,1 @@
-"# Lin-algebra" 
+Folder of codes which solve linear equations
